@@ -65,6 +65,11 @@ You may also run the following script which does the above for you:
 
     ./program_sdcard.sh xxxxxxx.img sdX
 
+## Logging in to the BeagleBone
+
+The default root password is 'root'. You may log in at the console
+or via ssh.
+
 ## Updating the Root FS on the BeagleBone
 
 The Root FS is configured to mount read-only on the BeagleBone. This is done
