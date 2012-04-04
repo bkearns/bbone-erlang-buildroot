@@ -4,7 +4,7 @@
 #
 #############################################################
 
-ERLANG_VERSION = R15B
+ERLANG_VERSION = R15B01
 ERLANG_SITE = http://erlang.org/download
 ERLANG_SOURCE = otp_src_$(ERLANG_VERSION).tar.gz
 
